@@ -1,5 +1,7 @@
-# IoT Sensor Data Management System
+# IoT Sensor Data Management System 
 
+
+[video link](https://drive.google.com/file/d/1BJaqCQSf9zYV3R0_G5FAluKpLWsylVO_/view?usp=drive_link)
 A Node.js and MongoDB-based backend application for storing, retrieving, and broadcasting IoT sensor data in real time using WebSocket (`Socket.IO`).
 
 ---
